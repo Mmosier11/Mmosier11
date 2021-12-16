@@ -34,8 +34,11 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 </p>
 
 ## Projects
-	* <a href="" title=""> TeamBandit Web Application </a>
-	* <a href="" title=""> Project Equinox </a>
+<ul>
+	<li><a href="" title=""> TeamBandit Web Application </a><li>
+	<li><a href="" title=""> Project Equinox </a></li>
+</ul>
+
 
 ## My Github Statistics
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=radical&hide=stars)]
