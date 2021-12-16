@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=synthwave)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11)
 <!--
 **Mmosier11/Mmosier11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
