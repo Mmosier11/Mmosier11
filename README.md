@@ -45,8 +45,8 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11&theme=radical)
 
-### My Hobbies
-##My Hero Academia!
+## My Hobbies
+###My Hero Academia!
 <p align="left"><img src="https://c.tenor.com/q8U7ukj2gecAAAAC/all-might-scream.gif" /></p>
 
 
