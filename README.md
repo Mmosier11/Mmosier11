@@ -6,23 +6,29 @@ Future:
 
 ## Where else can you find me?
 <p align="center">
-	<a href="" title=""> <img height="30" src="assets/discord.svg" /> </a>
-	<a href="" title=""> <img height="30" src="assets/epicgames.svg" /> </a>
-	<a href="" title=""> <img height="30" src="assets/linkedin.png" /> </a>
-	<a href="" title=""> <img height="30" src="assets/steam.svg" /> </a>
-	<a href="" title=""> <img height="30" src="assets/twitter.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/discord.svg" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/epicgames.svg" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/linkedin.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/steam.svg" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/twitter.png" /> </a>
 </p>
 
 ## Technologies
 <p align="center">
-	<a href="" title=""> <img height="30" src="assets/csharp.png" /> </a>
-	<a href="" title=""> <img height="30" src="assets/github.png" /> </a>
-	<a href="" title=""> <img height="30" src="assets/javascript.png" /> </a>
-	<a href="" title=""> <img height="30" src="assets/mysql.png" /> </a>
-	<a href="" title=""> <img height="30" src="assets/python.png" /> </a>
-	<a href="" title=""> <img height="30" src="assets/react.png" /> </a>
-	<a href="" title=""> <img height="30" src="assets/unity.png" /> </a>
-	<a href="" title=""> <img height="30" src="assets/vscode.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/csharp.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/github.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/javascript.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px"  src="assets/mysql.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/python.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/react.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/unity.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/vscode.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/atom.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/aws.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/css3.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/html.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/postgresql.png" /> </a>
+	<a href="" title=""> <img height="32" width="32" padding="10px" src="assets/nodejs.png" /> </a>
 </p>
 
 ## Projects
