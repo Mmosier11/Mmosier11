@@ -28,9 +28,9 @@ Future:
 ## Projects
 
 ## My Github Statistics
- [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=tokyonight&hide=stars)]
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=tokyonight&hide=stars)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11&theme=tokyonight)]
 
 
 <p align="center"><img src="https://c.tenor.com/q8U7ukj2gecAAAAC/all-might-scream.gif" /></p>
