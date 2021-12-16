@@ -1,8 +1,10 @@
 # Speak, Friend, and Enter.
 ### Welcome, I'm Max Mosier!
-Currently: I am currently pursuing a Bachelors of Science in Computer Science at Northern Arizona University. 
-Location:
-Future:
+Currently 🎓: I am currently pursuing a Bachelors of Science in Computer Science at Northern Arizona University. <br/> 
+Location 🏠: Flagstaff, AZ <br/> 
+Future 🏢: Starting my career as a Front End Developer in August 2022 <br/>
+Dream 🎮: Ultimately looking to enter the Game Development industry <br />
+
 
 ## Where else can you find me?
 <p align="center">
@@ -32,13 +34,15 @@ Future:
 </p>
 
 ## Projects
+	* <a href="" title=""> TeamBandit Web Application </a>
+	* <a href="" title=""> Project Equinox </a>
 
 ## My Github Statistics
-[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=tokyonight&hide=stars)]
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=radical&hide=stars)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11&theme=radical)]
 
-
+### Go Beyond, PLUS ULTRA!
 <p align="center"><img src="https://c.tenor.com/q8U7ukj2gecAAAAC/all-might-scream.gif" /></p>
 
 
