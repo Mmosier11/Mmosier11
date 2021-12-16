@@ -2,6 +2,9 @@
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=synthwave)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11)
+
+<p align="center"><img src="https://c.tenor.com/q8U7ukj2gecAAAAC/all-might-scream.gif" /></p>
+
 <!--
 **Mmosier11/Mmosier11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
