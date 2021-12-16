@@ -6,23 +6,23 @@ Future:
 
 ## Where else can you find me?
 <p align="center">
-	<a href="" title=""> <img src="assets/discord.svg" /> </a>
-	<a href="" title=""> <img src="assets/epicgames.svg" /> </a>
-	<a href="" title=""> <img src="assets/linkedin.png" /> </a>
-	<a href="" title=""> <img src="assets/steam.svg" /> </a>
-	<a href="" title=""> <img src="assets/twitter.png" /> </a>
+	<a href="" title=""> <img height="30" src="assets/discord.svg" /> </a>
+	<a href="" title=""> <img height="30" src="assets/epicgames.svg" /> </a>
+	<a href="" title=""> <img height="30" src="assets/linkedin.png" /> </a>
+	<a href="" title=""> <img height="30" src="assets/steam.svg" /> </a>
+	<a href="" title=""> <img height="30" src="assets/twitter.png" /> </a>
 </p>
 
 ## Technologies
 <p align="center">
-	<a href="" title=""> <img src="assets/csharp.png" /> </a>
-	<a href="" title=""> <img src="assets/github.png" /> </a>
-	<a href="" title=""> <img src="assets/javascript.png" /> </a>
-	<a href="" title=""> <img src="assets/mysql.png" /> </a>
-	<a href="" title=""> <img src="assets/python.png" /> </a>
-	<a href="" title=""> <img src="assets/react.png" /> </a>
-	<a href="" title=""> <img src="assets/unity.png" /> </a>
-	<a href="" title=""> <img src="assets/vscode.png" /> </a>
+	<a href="" title=""> <img height="30" src="assets/csharp.png" /> </a>
+	<a href="" title=""> <img height="30" src="assets/github.png" /> </a>
+	<a href="" title=""> <img height="30" src="assets/javascript.png" /> </a>
+	<a href="" title=""> <img height="30" src="assets/mysql.png" /> </a>
+	<a href="" title=""> <img height="30" src="assets/python.png" /> </a>
+	<a href="" title=""> <img height="30" src="assets/react.png" /> </a>
+	<a href="" title=""> <img height="30" src="assets/unity.png" /> </a>
+	<a href="" title=""> <img height="30" src="assets/vscode.png" /> </a>
 </p>
 
 ## Projects
