@@ -35,8 +35,9 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 ## Projects
 <ul>
-	<li><a href="https://ceias.nau.edu/capstone/projects/CS/2022/Outlaws/" title="TeamBandit"> TeamBandit Web Application </a></li>
+	<li><a href="https://github.com/QJMTech/TeamBandit" title="TeamBandit"> TeamBandit Web Application </a></li>
 	<li><a href="https://maxmosier.com/game-projects/project-equinox/index.html" title="Equinox"> Project Equinox </a></li>
+	<li><a href="" title="Bequester"> Project Bequester </a></li>
 </ul>
 
 
