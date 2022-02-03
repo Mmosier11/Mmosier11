@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/Mmosier11/Mmosier11/assets/github_header.png "Header")](https://maxmosier.com/)
+
 # Speak, Friend, and Enter.
 ### Welcome, I'm Max Mosier!
 Currently 🎓: Currently pursuing a Bachelors of Science in Computer Science at Northern Arizona University. <br/> 
@@ -16,6 +18,19 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 </p>
 
 ## Technologies
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 <p align="center">
 	<a href="" title="C#"> <img height="32" width="32" src="assets/csharp.png" /> </a>
 	<a href="" title="Github"> <img height="32" width="32" src="assets/github.png" /> </a>
@@ -43,7 +58,7 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 ## My Github Statistics
 <a href="https://github.com/Mmosier11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=radica" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Mmosier11">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11&theme=radical"/>
