@@ -42,6 +42,12 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 
 ## My Github Statistics
+<a href="https://github.com/Mmosier11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=radical&hide=stars" />
+</a>
+<a href="https://github.com/Mmosier11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11&theme=radical/>
+</a>
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=radical&hide=stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11&theme=radical)
