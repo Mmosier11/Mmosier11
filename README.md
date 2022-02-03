@@ -18,7 +18,7 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 </p>
 
 ## Technologies
-![](https://img.shields.io/badge/code/OS-Windows-informational?logo=windows&logoColor=white&color=pink&style=for-the-badge) 
+![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=6cf3e6&style=for-the-badge) 
 ![](https://img.shields.io/github/contributors/QJMTech/TeamBandit?style=for-the-badge) 
 ![](https://img.shields.io/github/stars/QJMTech/TeamBandit?style=for-the-badge) 
 ![](https://img.shields.io/github/forks/QJMTech/TeamBandit?color=orange&style=for-the-badge) 
