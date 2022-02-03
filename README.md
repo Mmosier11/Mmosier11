@@ -24,7 +24,9 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6cf3e6)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom-idea&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VSCode-idea&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/visual-studio-code?style=flat&logo=VSCode-idea&logoColor=white&color=6cf3e6)
+
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
