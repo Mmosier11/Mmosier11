@@ -20,22 +20,21 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 ## Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=6cf3e6&style=for-the-badge) 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=6cf3e6)
-
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom-idea&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badget&logo=atom-idea&logoColor=white&color=6cf3e6)
 ![](https://img.shields.io/badge/visualstudiocode-badge-blue.svg?style=for-the-badge&logo=visual-studio-code-idea&logoColor=white&color=6cf3e6)
 
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=for-the-badge&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=for-the-badget&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&color=2bbc8a)
 <p align="center">
 	<a href="" title="C#"> <img height="32" width="32" src="assets/csharp.png" /> </a>
 	<a href="" title="Github"> <img height="32" width="32" src="assets/github.png" /> </a>
