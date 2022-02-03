@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Mmosier11/Mmosier11/assets/github_header.png "Header")](https://maxmosier.com/)
+[![Header](https://raw.githubusercontent.com/Mmosier11/Mmosier11/master/assets/github_header.png "Header")](https://maxmosier.com/)
 
 # Speak, Friend, and Enter.
 ### Welcome, I'm Max Mosier!
