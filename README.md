@@ -10,6 +10,15 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 ## :mag_right: Where else can you find me?
 
+
+## :chart_with_upwards_trend: Github Stats
+<a href="https://github.com/Mmosier11">
+  <img align="center" src="assets/discord.svg" />
+</a>
+<a href="https://github.com/Mmosier11">
+  <img align="center" src="assets/epicgames.svg"/>
+</a>
+
 	<a href="" title="Taxnan#2497"> <img alt="Taxnan #2497" height="32" width="32" src="assets/discord.svg" /> </a>
 	<a href="" title="Taxnan"> <img alt="Taxnan"height="32" width="32" src="assets/epicgames.svg" /> </a>
 	<a href="https://www.linkedin.com/in/max-mosier/" title="Max Mosier"> <img height="32" width="32" src="assets/linkedin.png" /> </a>
@@ -19,7 +28,7 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 ## :computer: Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=6cf3e6&style=for-the-badge) 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Editor-vscode?style=for-the-badget&logo=vscode&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Editor-vscode-informational?style=for-the-badget&logo=visual-studio-code&logoColor=white&color=6cf3e6)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=6cf3e6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=6cf3e6)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=6cf3e6)
