@@ -12,11 +12,11 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 
 ## :chart_with_upwards_trend: Github Stats
-<a  height="32" width="32" href="https://github.com/Mmosier11">
-  <img align="center" src="assets/discord.svg" />
+<a  href="https://github.com/Mmosier11">
+  <img height="32" width="32" align="center" src="assets/discord.svg" />
 </a>
 <a  height="32" width="32" href="https://github.com/Mmosier11">
-  <img align="center" src="assets/epicgames.svg"/>
+  <img height="32" width="32" align="center" src="assets/epicgames.svg"/>
 </a>
 
 	<a href="" title="Taxnan#2497"> <img alt="Taxnan #2497" height="32" width="32" src="assets/discord.svg" /> </a>
