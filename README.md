@@ -63,6 +63,6 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 </a>
 
 <a href="https://github.com/QJMTech/TeamBandit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&theme=radical" />
 </a>
 
