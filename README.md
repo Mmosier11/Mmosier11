@@ -56,13 +56,13 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 ## :chart_with_upwards_trend: Github Stats
 <a href="https://github.com/Mmosier11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&title_color=ffffff&text_color=6cf3e6&icon_color=faca09&bg_color=512173" />
 </a>
 <a href="https://github.com/Mmosier11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11&title_color=ffffff&text_color=6cf3e6&icon_color=faca09&bg_color=512173"/>
 </a>
 
 <a href="https://github.com/QJMTech/TeamBandit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&title_color=ffffff&text_color=6cf3e6&icon_color=faca09&bg_color=512173" />
 </a>
 
