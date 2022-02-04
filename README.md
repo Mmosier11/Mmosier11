@@ -28,7 +28,7 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 ## :computer: Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=6cf3e6&style=for-the-badge) 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Editor-vscode-informational?style=for-the-badget&logo=visual-studio-code&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Editor-vscode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6cf3e6)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=6cf3e6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=6cf3e6)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=6cf3e6)
