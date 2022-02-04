@@ -24,22 +24,26 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C#-informational?style=for-the-badge&logo=c#&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=HTML&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
 
 
 <p align="center">
-	<a href="" title="C#"> <img height="32" width="32" src="assets/csharp.png" /> </a>
+	
 	<a href="" title="Github"> <img height="32" width="32" src="assets/github.png" /> </a>
-	<a href="" title="JavaScript"> <img height="32" width="32" src="assets/javascript.png" /> </a>
+	
 	<a href="" title="MySQL"> <img height="32" width="32" src="assets/mysql.png" /> </a>
-	<a href="" title="Python"> <img height="32" width="32" src="assets/python.png" /> </a>
-	<a href="" title="React"> <img height="32" width="32" src="assets/react.png" /> </a>
+	
+	
 	<a href="" title="Unity"> <img height="32" width="32" src="assets/unity.png" /> </a>
-	<a href="" title="VSCode"> <img height="32" width="32" src="assets/vscode.png" /> </a>
+	
 	<a href="" title="Atom"> <img height="32" width="32" src="assets/atom.png" /> </a>
 	<a href="" title="AWS"> <img height="32" width="32" src="assets/aws.png" /> </a>
-	<a href="" title="CSS3"> <img height="32" width="32" src="assets/css3.png" /> </a>
-	<a href="" title="HTML"> <img height="32" width="32" src="assets/html.png" /> </a>
 	<a href="" title="PostgreSQL"> <img height="32" width="32" src="assets/postgresql.png" /> </a>
 	<a href="" title="NodeJS"> <img height="32" width="32" src="assets/nodejs.png" /> </a>
 </p>
@@ -47,12 +51,13 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 ## Projects
 <ul>
 	<li><a href="https://github.com/QJMTech/TeamBandit" title="TeamBandit"> TeamBandit Web Application </a></li>
+	<p> Current big school project </p>
 	<li><a href="https://maxmosier.com/game-projects/project-equinox/index.html" title="Equinox"> Project Equinox </a></li>
 	<li><a href="" title="Bequester"> Project Bequester </a></li>
 </ul>
 
 
-## My Github Statistics
+## :chart_with_upwards_trend: Github Stats
 <a href="https://github.com/Mmosier11">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&theme=radical" />
 </a>
