@@ -9,9 +9,6 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 
 ## :mag_right: Where else can you find me?
-
-
-## :chart_with_upwards_trend: Github Stats
 <a href="https://github.com/Mmosier11">
   <img height="32" width="32"  src="assets/discord.svg" />
   <p>Dicsord: Taxnan #2497 </p>
