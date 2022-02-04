@@ -12,14 +12,29 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 
 ## :chart_with_upwards_trend: Github Stats
-<a  href="https://github.com/Mmosier11">
+<a href="https://github.com/Mmosier11">
   <img height="32" width="32"  src="assets/discord.svg" />
-	<p>Dicsord: Taxnan #2497 </p>
+  <p>Dicsord: Taxnan #2497 </p>
+</a>
+<a  height="32" width="32" href="https://github.com/Mmosier11">
+  <img height="32" width="32" align="center" src="assets/epicgames.svg"/>
+  <p>Epic Games: Taxnan </p>
 </a>
 <a  height="32" width="32" href="https://github.com/Mmosier11">
   <img height="32" width="32" align="center" src="assets/epicgames.svg"/>
 </a>
-
+<a  height="32" width="32" href="https://github.com/Mmosier11">
+  <img height="32" width="32" align="center" src="assets/linkedin.png"/>
+</a>
+<a  height="32" width="32" href="https://github.com/Mmosier11">
+  <img height="32" width="32" align="center" src="assets/steam.svg"/>
+</a>
+<a  height="32" width="32" href="https://github.com/Mmosier11">
+  <img height="32" width="32" align="center" src="assets/linkedin.png"/>
+</a>
+<a  height="32" width="32" href="https://github.com/Mmosier11">
+  <img height="32" width="32" align="center" src="assets/twitter.png"/>
+</a>
 	<a href="" title="Taxnan#2497"> <img alt="Taxnan #2497" height="32" width="32" src="assets/discord.svg" /> </a>
 	<a href="" title="Taxnan"> <img alt="Taxnan"height="32" width="32" src="assets/epicgames.svg" /> </a>
 	<a href="https://www.linkedin.com/in/max-mosier/" title="Max Mosier"> <img height="32" width="32" src="assets/linkedin.png" /> </a>
