@@ -56,7 +56,7 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 ## :chart_with_upwards_trend: Github Stats
 <a href="https://github.com/Mmosier11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&title_color=ffffff&text_color=6cf3e6&icon_color=faca09&bg_color=512173" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mmosier11&show_icons=true&title_color=ffffff&text_color=6cf3e6&icon_color=faca09&bg_color=512173&hide_stars=true" />
 </a>
 <a href="https://github.com/Mmosier11">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmosier11&hide=css,html&title_color=ffffff&text_color=6cf3e6&icon_color=faca09&bg_color=512173&langs_count=3"/>
