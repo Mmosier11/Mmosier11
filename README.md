@@ -12,10 +12,10 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 
 ## :chart_with_upwards_trend: Github Stats
-<a href="https://github.com/Mmosier11">
+<a  height="32" width="32" href="https://github.com/Mmosier11">
   <img align="center" src="assets/discord.svg" />
 </a>
-<a href="https://github.com/Mmosier11">
+<a  height="32" width="32" href="https://github.com/Mmosier11">
   <img align="center" src="assets/epicgames.svg"/>
 </a>
 
