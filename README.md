@@ -20,26 +20,18 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
   <img height="32" width="32" align="center" src="assets/epicgames.svg"/>
   <p>Epic Games: Taxnan </p>
 </a>
-<a  height="32" width="32" href="https://github.com/Mmosier11">
-  <img height="32" width="32" align="center" src="assets/epicgames.svg"/>
-</a>
-<a  height="32" width="32" href="https://github.com/Mmosier11">
-  <img height="32" width="32" align="center" src="assets/linkedin.png"/>
-</a>
-<a  height="32" width="32" href="https://github.com/Mmosier11">
+<a  height="32" width="32" href="https://steamcommunity.com/profiles/76561198067190703">
   <img height="32" width="32" align="center" src="assets/steam.svg"/>
+  <p>Steam: Taxnan </p>
 </a>
-<a  height="32" width="32" href="https://github.com/Mmosier11">
+<a  height="32" width="32" href="https://www.linkedin.com/in/max-mosier/">
   <img height="32" width="32" align="center" src="assets/linkedin.png"/>
+  <p>Linked-in: Max Mosier </p>
 </a>
 <a  height="32" width="32" href="https://github.com/Mmosier11">
   <img height="32" width="32" align="center" src="assets/twitter.png"/>
+  <p>Twitter: @SenpaiSumpie </p>
 </a>
-	<a href="" title="Taxnan#2497"> <img alt="Taxnan #2497" height="32" width="32" src="assets/discord.svg" /> </a>
-	<a href="" title="Taxnan"> <img alt="Taxnan"height="32" width="32" src="assets/epicgames.svg" /> </a>
-	<a href="https://www.linkedin.com/in/max-mosier/" title="Max Mosier"> <img height="32" width="32" src="assets/linkedin.png" /> </a>
-	<a href="https://steamcommunity.com/profiles/76561198067190703" title="Taxnan"> <img height="32" width="32" src="assets/steam.svg" /> </a>
-	<a href="https://twitter.com/senpaisumpie" title="@SenpaiSumpie"> <img height="32" width="32" src="assets/twitter.png" /> </a>
 
 ## :computer: Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=6cf3e6&style=for-the-badge) 
