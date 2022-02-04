@@ -8,7 +8,7 @@ Future 🏢: Starting my career as a Front End Developer in August 2022 <br/>
 Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 
-## Where else can you find me?
+## :mag_right: Where else can you find me?
 <p align="center">
 	<a href="" title="Taxnan#2497"> <img alt="Taxnan #2497" height="32" width="32" src="assets/discord.svg" /> </a>
 	<a href="" title="Taxnan"> <img alt="Taxnan"height="32" width="32" src="assets/epicgames.svg" /> </a>
@@ -17,38 +17,27 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 	<a href="https://twitter.com/senpaisumpie" title="@SenpaiSumpie"> <img height="32" width="32" src="assets/twitter.png" /> </a>
 </p>
 
-## Technologies
+## :computer: Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=6cf3e6&style=for-the-badge) 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Editor?style=for-the-badget&logo=Visual-studio-code&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-vscode?style=for-the-badget&logo=Visual-studio-code&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Code-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c++&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Tools-Github-informational?style=for-the-badge&logo=github&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Tools-Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=for-the-badge&logo=aws&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Tools-NodeJS-informational?style=for-the-badge&logo=nodejs&logoColor=white&color=6cf3e6)
+![](https://img.shields.io/badge/Tools-ExpressJS-informational?style=for-the-badge&logo=expressjs&logoColor=white&color=6cf3e6)
 
-
-<p align="center">
-	
-	<a href="" title="Github"> <img height="32" width="32" src="assets/github.png" /> </a>
-	
-	<a href="" title="MySQL"> <img height="32" width="32" src="assets/mysql.png" /> </a>
-	
-	
-	<a href="" title="Unity"> <img height="32" width="32" src="assets/unity.png" /> </a>
-	
-	<a href="" title="Atom"> <img height="32" width="32" src="assets/atom.png" /> </a>
-	<a href="" title="AWS"> <img height="32" width="32" src="assets/aws.png" /> </a>
-	<a href="" title="PostgreSQL"> <img height="32" width="32" src="assets/postgresql.png" /> </a>
-	<a href="" title="NodeJS"> <img height="32" width="32" src="assets/nodejs.png" /> </a>
-</p>
-
-## Projects
+## :clipboard: Projects
 <ul>
 	<li><a href="https://github.com/QJMTech/TeamBandit" title="TeamBandit"> TeamBandit Web Application </a></li>
 	<p> Current big school project </p>
