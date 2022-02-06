@@ -54,9 +54,9 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 	<li><a href="https://github.com/QJMTech/TeamBandit" title="TeamBandit"> TeamBandit Web Application </a></li>
 	<p> TeamBandit is my current senior capstone project. Along with three others, we are working to create a web application that helps streamline course management. To accomplish this task, my group is working in an agile development process to work with our client to produce their vision. We are currently utilizing PostgreSQL, Node, Express, and React to accomplish our task.</p>
 	<li><a href="https://maxmosier.com/game-projects/project-equinox/index.html" title="Equinox"> Project Equinox </a></li>
-	<p> TeamBandit is my current senior capstone project. Along with three others, we are working to create a web application that helps streamline course management. To accomplish this task, my group is working in an agile development process to work with our client to produce their vision. We are currently utilizing PostgreSQL, Node, Express, and React to accomplish our task.</p>
+	<p> This is a game project that has been a passion project of mine for a long time. This game is currently being built in Unity v2020.3.18f1 this is going to be a 3D fantasy action RPG that will follow similar story patterns as made in Star Wars Knights of the Old Republic 1 and 2.</p>
 	<li><a href="" title="Bequester"> Project Bequester </a></li>
-	<p> TeamBandit is my current senior capstone project. Along with three others, we are working to create a web application that helps streamline course management. To accomplish this task, my group is working in an agile development process to work with our client to produce their vision. We are currently utilizing PostgreSQL, Node, Express, and React to accomplish our task.</p>
+	<p> I'm temporarily postponing Project Equinox to create this side project. It is currently being made in Unity v2020.3.26f1. This game will be a small game and plans on combining elements from Fire Emblem, Slay the Spire and Magic the Gathering.</p>
 </ul>
 
 
