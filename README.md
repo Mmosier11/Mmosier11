@@ -4,7 +4,6 @@
 ### Welcome, I'm Max Mosier!
 Currently 🎓: Currently pursuing a Bachelors of Science in Computer Science at Northern Arizona University. <br/> 
 Location 🏠: Flagstaff, AZ <br/> 
-Future 🏢: Starting my career as a Front End Developer in August 2022 <br/>
 Dream 🎮: Ultimately looking to enter the Game Development industry <br />
 
 
