@@ -30,6 +30,7 @@ Dream 🎮: Ultimately looking to enter the Game Development industry <br />
   <p>Twitter: @SenpaiSumpie </p>
 </a>
 </div>
+
 ## :computer: Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=6cf3e6&style=for-the-badge) 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=6cf3e6)
