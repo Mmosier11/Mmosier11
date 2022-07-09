@@ -1,17 +1,17 @@
 [![Header](https://raw.githubusercontent.com/Mmosier11/Mmosier11/master/assets/github_header.png "Header")](https://maxmosier.com/)
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex;">
 	<div align="right">
 		<img align="right" src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/programmer.jpg" width="500">
 	</div>
 	<div align="left">
-		<h1 align="left"> Speak, Friend, and Enter. </h1>
-		<h2 align="left"> Welcome, I'm Max Mosier! </h2>
+		<h1 align="left"> :mage: Speak, Friend, and Enter. </h1>
+		<h2 align="left"> :wave: Welcome, I'm Max Mosier! </h2>
 		<p align="left"> Computer Science graduate currently working as a Front-End Developer at Cognizant. I enjoy being innovative and problem solving issues 		of varying complexity. Looking to further my education in UI/UX practices and enter Software Development for creative applications, such as, video 		   games, media, and film. </p>
 		<h2 align="left"> :mag_right: Where else can you find me? </h2>
 		<div align="left">
   			<div style="display: flex;">
-   				<a href="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/website.svg" target="_blank">
+   				<a href="https://steamcommunity.com/id/taxnan11/">
 					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/steam.svg" width="75" /> 
 				</a>
 				<a href="">
@@ -26,7 +26,7 @@
 				<a href="">
 					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/discord.svg" width="75" />
 				</a>
-				<a href="">
+				<a href="https://maxmosier.com">
 					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/website.svg" width="75" />
 				</a>
   			</div>
@@ -34,29 +34,28 @@
 	</div>
 </div>
 
-
-<a style={{display: 'flex', flexDirection: 'column'}} href="https://github.com/Mmosier11">
-  <img height="32" width="32"  src="assets/discord.svg" />
-  <p>Dicsord: Taxnan #2497 </p>
-</a>
-<a style={{display: 'flex', flexDirection: 'column'}} height="32" width="32" href="https://github.com/Mmosier11">
-  <img height="32" width="32" align="center" src="assets/epicgames.svg"/>
-  <p>Epic Games: Taxnan </p>
-</a>
-<a  style={{display: 'flex', flexDirection: 'column'}} height="32" width="32" href="https://steamcommunity.com/profiles/76561198067190703">
-  <img height="32" width="32" align="center" src="assets/steam.svg"/>
-  <p>Steam: Taxnan </p>
-</a>
-<a  style={{display: 'flex', flexDirection: 'column'}} height="32" width="32" href="https://www.linkedin.com/in/max-mosier/">
-  <img height="32" width="32" align="center" src="assets/linkedin.svg"/>
-  <p>Linked-in: Max Mosier </p>
-</a>
-<a  style={{display: 'flex', flexDirection: 'column'}} height="32" width="32" href="https://github.com/Mmosier11">
-  <img height="32" width="32" align="center" src="assets/twitter.svg"/>
-  <p>Twitter: @SenpaiSumpie </p>
-</a>
-
-## :computer: Technologies
+<div>
+	<h1>:computer: Technologies</h1>
+	<div style="display: flex;">
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/aws.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/angular.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/c.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/cplusplus.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/csharp.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/css.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/express.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/git.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/github.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/html.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/java.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/js.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/jira.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/json.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/materialui.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/mysql.svg" width="100" />
+	</div>
+</div>
+## 
 ![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=6cf3e6&style=for-the-badge) 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=6cf3e6)
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6cf3e6)
