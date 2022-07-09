@@ -33,47 +33,30 @@
 		</div>
 	</div>
 </div>
-
+<br>
+<br>
 <div>
 	<h1>:computer: Technologies</h1>
 	<div style="display: flex;">
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/aws.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/angular.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/c.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/cplusplus.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/csharp.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/css.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/express.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/git.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/github.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/html.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/java.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/js.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/jira.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/json.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/materialui.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/mysql.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/aws.svg" width="125">
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/angular.svg" width="125">
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/c.svg" width="125"/>
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/cplusplus.svg" width="125"/>
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/csharp.svg" width="125" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/css.svg" width="125" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/express.svg" width="125" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/git.svg" width="125" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/github.svg" width="125" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/html.svg" width="125" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/java.svg" width="125" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/js.svg" width="125" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/jira.svg" width="125" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/json.svg" width="125" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/materialui.svg" width="125" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/mysql.svg" width="125" />
 	</div>
 </div>
 ## 
-![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=6cf3e6&style=for-the-badge) 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Editor-vscode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Code-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c++&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Tools-Github-informational?style=for-the-badge&logo=github&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Tools-Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=for-the-badge&logo=aws&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Tools-NodeJS-informational?style=for-the-badge&logo=nodejs&logoColor=white&color=6cf3e6)
-![](https://img.shields.io/badge/Tools-ExpressJS-informational?style=for-the-badge&logo=expressjs&logoColor=white&color=6cf3e6)
 
 ## :clipboard: Projects
 <ul>
