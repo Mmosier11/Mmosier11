@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/Mmosier11/Mmosier11/master/assets/github_header.png "Header")](https://maxmosier.com/)
 
 <div style="display: flex; flex-direction: row;">
-	<div>
+	<div align="left">
 		<h1> Speak, Friend, and Enter. </h1>
 		<h2> Welcome, I'm Max Mosier! </h2>
 <p> Computer Science graduate currently working as a Front-End Developer at Cognizant. I enjoy being innovative and problem solving issues of varying complexity. Looking to further my education in UI/UX practices and enter Software Development for creative applications, such as, video games, media, and film. </p>
@@ -16,9 +16,12 @@
 </div>
 	</div>
 	<div>
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/programmer.jpg" width="200">
+		<img align="right" src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/programmer.jpg" width="200">
 	</div>
 </div>
+
+
+
 # Speak, Friend, and Enter.
 ### Welcome, I'm Max Mosier!
 Computer Science graduate currently working as a Front-End Developer at Cognizant. I enjoy being innovative and problem solving issues of varying complexity. Looking to further my education in UI/UX practices and enter Software Development for creative applications, such as, video games, media, and film.
