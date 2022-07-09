@@ -76,3 +76,30 @@ Location 🏠: Flagstaff, AZ <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&title_color=f47ab7&text_color=6cf3e6&icon_color=752eda&bg_color=512173" />
 </a>
 
+
+### Hi there 👋, my name is Max Mosier
+#### Spreak, Friend, and Enter
+![Spreak, Friend, and Enter](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on Front-End Development 
+- 🌱 I’m currently learning UI/UX Practices 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SenpaiSumpie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/max-mosier/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SenpaiSumpie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](maxmosier.com)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SenpaiSumpie)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenpaiSumpie)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SenpaiSumpie&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/SenpaiSumpie)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SenpaiSumpie)  
+
+![Profile views](https://gpvc.arturio.dev/SenpaiSumpie)  
+
