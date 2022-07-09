@@ -85,16 +85,17 @@
   <summary><h1>:clipboard: Projects</h1></summary>
 
   <ul>
-	<li><a href="https://github.com/QJMTech/TeamBandit" title="TeamBandit"> TeamBandit Web Application </a></li>
+	<li>
+		<a href="https://github.com/QJMTech/TeamBandit" title="TeamBandit"> TeamBandit Web Application </a>
+	  </li>
 	<p> TeamBandit is my current senior capstone project. Along with three others, we are working to create a web application that helps streamline course management. To accomplish this task, my group is working in an agile development process to work with our client to produce their vision. We are currently utilizing PostgreSQL, Node, Express, and React to accomplish our task.</p>
-		       <p> Take a further look at the website below documenting our process or at the Github repo!</p>
+	<p> Take a further look at the website below documenting our process or at the Github repo!</p>
 	  <a href="https://ceias.nau.edu/capstone/projects/CS/2022/Outlaws/">https://ceias.nau.edu/capstone/projects/CS/2022/Outlaws/</a>
 	  <br>
 	  <a href="https://github.com/QJMTech/TeamBandit">
   		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&theme=radical" />
-	</a>
-		       
-	<p></p>
+	</a>       
+	<br>
 	<li><a href="https://maxmosier.com/game-projects/project-equinox/index.html" title="Equinox"> Project Equinox </a></li>
 	<p> This is a game project that has been a passion project of mine for a long time. This game is currently being built in Unity v2020.3.18f1 this is going to be a 3D fantasy action RPG that will follow similar story patterns as made in Star Wars Knights of the Old Republic 1 and 2.</p>
 	<li><a href="" title="Bequester"> Project Bequester </a></li>
