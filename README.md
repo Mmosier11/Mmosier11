@@ -2,7 +2,7 @@
 
 <div style="display: flex;">
 	<div align="right">
-		<img align="right" src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/programmer.jpg" width="500">
+		<img align="right" src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/programmer.jpg" width="300">
 	</div>
 	<div align="left">
 		<h1 align="left"> :mage: Speak, Friend, and Enter. </h1>
@@ -38,22 +38,22 @@
 <div>
 	<h1>:computer: Technologies</h1>
 	<div style="display: flex;">
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/aws.svg" width="125">
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/angular.svg" width="125">
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/c.svg" width="125"/>
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/cplusplus.svg" width="125"/>
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/csharp.svg" width="125" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/css.svg" width="125" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/express.svg" width="125" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/git.svg" width="125" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/github.svg" width="125" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/html.svg" width="125" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/java.svg" width="125" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/js.svg" width="125" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/jira.svg" width="125" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/json.svg" width="125" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/materialui.svg" width="125" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/mysql.svg" width="125" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/aws.svg" width="100">
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/angular.svg" width="100">
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/c.svg" width="100"/>
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/cplusplus.svg" width="100"/>
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/csharp.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/css.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/express.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/git.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/github.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/html.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/java.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/js.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/jira.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/json.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/materialui.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/mysql.svg" width="100" />
 	</div>
 </div>
 ## 
