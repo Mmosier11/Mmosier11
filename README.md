@@ -2,30 +2,28 @@
 
 # Speak, Friend, and Enter.
 ### Welcome, I'm Max Mosier!
-Currently 🎓: Currently pursuing a Bachelors of Science in Computer Science at Northern Arizona University. <br/> 
-Location 🏠: Flagstaff, AZ <br/> 
-
+Computer Science graduate currently working as a Front-End Developer at Cognizant. I enjoy being innovative and problem solving issues of varying complexity. Looking to further my education in UI/UX practices and enter Software Development for creative applications, such as, video games, media, and film.
 
 ## :mag_right: Where else can you find me?
 <div style={{display: 'flex', flexDirection: 'column'}}>
-<a href="https://github.com/Mmosier11">
+<a style={{display: 'flex', flexDirection: 'column'}} href="https://github.com/Mmosier11">
   <img height="32" width="32"  src="assets/discord.svg" />
   <p>Dicsord: Taxnan #2497 </p>
 </a>
-<a  height="32" width="32" href="https://github.com/Mmosier11">
+<a style={{display: 'flex', flexDirection: 'column'}} height="32" width="32" href="https://github.com/Mmosier11">
   <img height="32" width="32" align="center" src="assets/epicgames.svg"/>
   <p>Epic Games: Taxnan </p>
 </a>
-<a  height="32" width="32" href="https://steamcommunity.com/profiles/76561198067190703">
+<a  style={{display: 'flex', flexDirection: 'column'}} height="32" width="32" href="https://steamcommunity.com/profiles/76561198067190703">
   <img height="32" width="32" align="center" src="assets/steam.svg"/>
   <p>Steam: Taxnan </p>
 </a>
-<a  height="32" width="32" href="https://www.linkedin.com/in/max-mosier/">
-  <img height="32" width="32" align="center" src="assets/linkedin.png"/>
+<a  style={{display: 'flex', flexDirection: 'column'}} height="32" width="32" href="https://www.linkedin.com/in/max-mosier/">
+  <img height="32" width="32" align="center" src="assets/linkedin.svg"/>
   <p>Linked-in: Max Mosier </p>
 </a>
-<a  height="32" width="32" href="https://github.com/Mmosier11">
-  <img height="32" width="32" align="center" src="assets/twitter.png"/>
+<a  style={{display: 'flex', flexDirection: 'column'}} height="32" width="32" href="https://github.com/Mmosier11">
+  <img height="32" width="32" align="center" src="assets/twitter.svg"/>
   <p>Twitter: @SenpaiSumpie </p>
 </a>
 </div>
