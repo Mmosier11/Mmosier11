@@ -11,8 +11,8 @@
 				<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/epicgames.svg" width="100" />
 				<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/twitter.svg" width="100" />
 				<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/linkedin.svg" width="100" />
-				<img src="(https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/discord.svg" width="100" />
-				<img src="(https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/website.svg" width="100" />
+				<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/discord.svg" width="100" />
+				<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/website.svg" width="100" />
   			</div>
 		</div>
 	</div>
