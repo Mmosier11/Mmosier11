@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/Mmosier11/Mmosier11/master/assets/github_header.png "Header")](https://maxmosier.com/)
 
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: row;">
 	<div>
 		<h1> Speak, Friend, and Enter. </h1>
 		<h2> Welcome, I'm Max Mosier! </h2>
