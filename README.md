@@ -2,10 +2,10 @@
 
 <div style="display: flex; flex-direction: row;">
 	<div align="left">
-		<h1> Speak, Friend, and Enter. </h1>
-		<h2> Welcome, I'm Max Mosier! </h2>
-		<p> Computer Science graduate currently working as a Front-End Developer at Cognizant. I enjoy being innovative and problem solving issues of varying 			complexity. Looking to further my education in UI/UX practices and enter Software Development for creative applications, such as, video games, media, 			and film. </p>
-		<div align="center">
+		<h1 align="left"> Speak, Friend, and Enter. </h1>
+		<h2 align="left"> Welcome, I'm Max Mosier! </h2>
+		<p align="left"> Computer Science graduate currently working as a Front-End Developer at Cognizant. I enjoy being innovative and problem solving issues 		of varying complexity. Looking to further my education in UI/UX practices and enter Software Development for creative applications, such as, video 		   games, media, and film. </p>
+		<div align="left">
   			<div style="display: flex;">
    				<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/steam.svg" width="100" />
 				<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/epicgames.svg" width="100" />
