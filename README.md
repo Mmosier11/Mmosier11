@@ -5,6 +5,8 @@
 Computer Science graduate currently working as a Front-End Developer at Cognizant. I enjoy being innovative and problem solving issues of varying complexity. Looking to further my education in UI/UX practices and enter Software Development for creative applications, such as, video games, media, and film.
 
 ## :mag_right: Where else can you find me?
+![Steam]([http://url/to/img.png](https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/steam.svg)
+
 <div style={{display: 'flex', flexDirection: 'column'}}>
 <a style={{display: 'flex', flexDirection: 'column'}} href="https://github.com/Mmosier11">
   <img height="32" width="32"  src="assets/discord.svg" />
