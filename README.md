@@ -8,34 +8,33 @@
 		<h1 align="left"> Speak, Friend, and Enter. </h1>
 		<h2 align="left"> Welcome, I'm Max Mosier! </h2>
 		<p align="left"> Computer Science graduate currently working as a Front-End Developer at Cognizant. I enjoy being innovative and problem solving issues 		of varying complexity. Looking to further my education in UI/UX practices and enter Software Development for creative applications, such as, video 		   games, media, and film. </p>
+		:mag_right: Where else can you find me?
 		<div align="left">
   			<div style="display: flex;">
    				<a href="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/website.svg" target="_blank">
-					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/steam.svg" width="75" /> </a>
-				<a href=""><img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/epicgames.svg" width="75" /></a>
-				<a href=""><img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/twitter.svg" width="75" /></a>
-				<a href=""><img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/linkedin.svg" width="75" /></a>
-				<a href=""><img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/discord.svg" width="75" /></a>
-				<a href=""><img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/website.svg" width="75" /></a>
+					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/steam.svg" width="75" /> 
+				</a>
+				<a href="">
+					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/epicgames.svg" width="75" />
+				</a>
+				<a href="">
+					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/twitter.svg" width="75" />
+				</a>
+				<a href="">
+					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/linkedin.svg" width="75" />
+				</a>
+				<a href="">
+					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/discord.svg" width="75" />
+				</a>
+				<a href="">
+					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/website.svg" width="75" />
+				</a>
   			</div>
 		</div>
 	</div>
 </div>
 
 
-
-# Speak, Friend, and Enter.
-### Welcome, I'm Max Mosier!
-Computer Science graduate currently working as a Front-End Developer at Cognizant. I enjoy being innovative and problem solving issues of varying complexity. Looking to further my education in UI/UX practices and enter Software Development for creative applications, such as, video games, media, and film.
-
-
-
-
-## :mag_right: Where else can you find me?
-
-
-
-<div style={{display: 'flex', flexDirection: 'column'}}>
 <a style={{display: 'flex', flexDirection: 'column'}} href="https://github.com/Mmosier11">
   <img height="32" width="32"  src="assets/discord.svg" />
   <p>Dicsord: Taxnan #2497 </p>
@@ -56,7 +55,6 @@ Computer Science graduate currently working as a Front-End Developer at Cognizan
   <img height="32" width="32" align="center" src="assets/twitter.svg"/>
   <p>Twitter: @SenpaiSumpie </p>
 </a>
-</div>
 
 ## :computer: Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=6cf3e6&style=for-the-badge) 
