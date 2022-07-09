@@ -2,13 +2,13 @@
 
 <div style="display: flex; flex-direction: row;">
 	<div align="right">
-		<img align="right" src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/programmer.jpg" width="400">
+		<img align="right" src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/programmer.jpg" width="500">
 	</div>
 	<div align="left">
 		<h1 align="left"> Speak, Friend, and Enter. </h1>
 		<h2 align="left"> Welcome, I'm Max Mosier! </h2>
 		<p align="left"> Computer Science graduate currently working as a Front-End Developer at Cognizant. I enjoy being innovative and problem solving issues 		of varying complexity. Looking to further my education in UI/UX practices and enter Software Development for creative applications, such as, video 		   games, media, and film. </p>
-		:mag_right: Where else can you find me?
+		<h2 align="left"> :mag_right: Where else can you find me? </h2>
 		<div align="left">
   			<div style="display: flex;">
    				<a href="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/website.svg" target="_blank">
