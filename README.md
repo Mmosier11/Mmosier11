@@ -101,3 +101,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/SenpaiSumpie)  
 
+Programmer Vector Art Image provided by Vecteezy.com
