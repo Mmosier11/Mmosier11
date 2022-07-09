@@ -100,16 +100,16 @@
 <details>
 	<summary> <h1> :chart_with_upwards_trend: Github Stats </h1></summary>
 	<a href="https://github.com/SenapaiSumpie">
-  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=SenpaiSumpie&show_icons=true&theme=raadical" />
+  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=SenpaiSumpie&show_icons=true&theme=radical" />
 	</a>
 	<a href="https://github.com/SenpaiSumpie">
-  		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenpaiSumpie&hide=yacc,css,game maker language&theme=raadical"/>
+  		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenpaiSumpie&hide=yacc,css,game maker language&theme=radical"/>
+	</a>
+	<a href="https://github.com/SenpaiSumpie">
+  		<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SenpaiSumpie&theme=radical" />
 	</a>
 	<a href="https://github.com/QJMTech/TeamBandit">
-  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&theme=raadical" />
-	</a>
-	<a href="https://github.com/SenpaiSumpie">
-  		<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SenpaiSumpie&theme=raadical" />
+  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&theme=radical" />
 	</a>
 </details>
 
