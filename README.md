@@ -20,7 +20,7 @@
 				<a href="">
 					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/twitter.svg" width="75" />
 				</a>
-				<a href="">
+				<a href="https://www.linkedin.com/in/max-mosier/">
 					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/linkedin.svg" width="75" />
 				</a>
 				<a href="">
