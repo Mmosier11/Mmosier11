@@ -88,6 +88,9 @@
 	<li><a href="https://github.com/QJMTech/TeamBandit" title="TeamBandit"> TeamBandit Web Application </a></li>
 	<p> TeamBandit is my current senior capstone project. Along with three others, we are working to create a web application that helps streamline course management. To accomplish this task, my group is working in an agile development process to work with our client to produce their vision. We are currently utilizing PostgreSQL, Node, Express, and React to accomplish our task.</p>
 		       <p> Take a further look at the website below documenting our process or at the Github repo!</p>
+	  <a href="https://github.com/QJMTech/TeamBandit">
+  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&theme=radical" />
+	</a>
 		       <a href="https://ceias.nau.edu/capstone/projects/CS/2022/Outlaws/">https://ceias.nau.edu/capstone/projects/CS/2022/Outlaws/</a>
 	<p></p>
 	<li><a href="https://maxmosier.com/game-projects/project-equinox/index.html" title="Equinox"> Project Equinox </a></li>
@@ -107,9 +110,6 @@
 	</a>
 	<a href="https://github.com/SenpaiSumpie">
   		<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SenpaiSumpie&theme=radical" />
-	</a>
-	<a href="https://github.com/QJMTech/TeamBandit">
-  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&theme=radical" />
 	</a>
 </details>
 
