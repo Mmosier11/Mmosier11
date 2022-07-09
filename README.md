@@ -105,7 +105,6 @@
 	<a href="https://github.com/SenpaiSumpie">
   		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenpaiSumpie&hide=yacc,css,game maker language&title_color=f47ab7&text_color=6cf3e6&icon_color=752eda&bg_color=512173"/>
 	</a>
-
 	<a href="https://github.com/QJMTech/TeamBandit">
   		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&title_color=f47ab7&text_color=6cf3e6&icon_color=752eda&bg_color=512173" />
 	</a>
