@@ -54,9 +54,22 @@
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/json.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/materialui.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/mysql.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/nodejs.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/pgsql.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/python.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/r.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/react.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/reactrouter.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/sql.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/stack.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/trello.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/vscode.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/unity.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/unrealengine.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/typescript.svg" width="100" />
 	</div>
 </div>
-## 
+
 
 ## :clipboard: Projects
 <ul>
