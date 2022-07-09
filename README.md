@@ -4,12 +4,19 @@
 ### Welcome, I'm Max Mosier!
 Computer Science graduate currently working as a Front-End Developer at Cognizant. I enjoy being innovative and problem solving issues of varying complexity. Looking to further my education in UI/UX practices and enter Software Development for creative applications, such as, video games, media, and film.
 
-## :mag_right: Where else can you find me?
-<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/steam.svg" width="100">
+
+<div align="center">
+  <div style="display: flex;">
+   <img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/steam.svg" width="100">
 <img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/epicgames.svg" width="100">
 <img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/twitter.svg" width="100">
 <img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/linkedin.svg" width="100">
 <img src="(https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/discord.svg" width="100">
+  </div>
+</div>
+
+## :mag_right: Where else can you find me?
+
 
 
 <div style={{display: 'flex', flexDirection: 'column'}}>
