@@ -89,6 +89,7 @@
 	<p> TeamBandit is my current senior capstone project. Along with three others, we are working to create a web application that helps streamline course management. To accomplish this task, my group is working in an agile development process to work with our client to produce their vision. We are currently utilizing PostgreSQL, Node, Express, and React to accomplish our task.</p>
 		       <p> Take a further look at the website below documenting our process or at the Github repo!</p>
 	  <a href="https://ceias.nau.edu/capstone/projects/CS/2022/Outlaws/">https://ceias.nau.edu/capstone/projects/CS/2022/Outlaws/</a>
+	  <br>
 	  <a href="https://github.com/QJMTech/TeamBandit">
   		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&theme=radical" />
 	</a>
