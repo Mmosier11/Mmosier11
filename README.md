@@ -81,9 +81,10 @@
 	</div>
 </div>
 
+<details>
+  <summary>:clipboard: Projects</summary>
 
-## :clipboard: Projects
-<ul>
+  <ul>
 	<li><a href="https://github.com/QJMTech/TeamBandit" title="TeamBandit"> TeamBandit Web Application </a></li>
 	<p> TeamBandit is my current senior capstone project. Along with three others, we are working to create a web application that helps streamline course management. To accomplish this task, my group is working in an agile development process to work with our client to produce their vision. We are currently utilizing PostgreSQL, Node, Express, and React to accomplish our task.</p>
 		       <p> Take a further look at the website below documenting our process or at the Github repo!</p>
@@ -95,9 +96,10 @@
 	<p> I'm temporarily postponing Project Equinox to create this side project. It is currently being made in Unity v2020.3.26f1. This game will be a small game and plans on combining elements from Fire Emblem, Slay the Spire and Magic the Gathering.</p>
 </ul>
 
-
-## :chart_with_upwards_trend: Github Stats
-<a href="https://github.com/SenapaiSumpie">
+</details>
+<details>
+	<summary> :chart_with_upwards_trend: Github Stats </summary>
+	<a href="https://github.com/SenapaiSumpie">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SenpaiSumpie&show_icons=true&title_color=f47ab7&text_color=6cf3e6&icon_color=752eda&bg_color=512173" />
 </a>
 <a href="https://github.com/SenpaiSumpie">
@@ -107,11 +109,11 @@
 <a href="https://github.com/QJMTech/TeamBandit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QJMTech&repo=TeamBandit&title_color=f47ab7&text_color=6cf3e6&icon_color=752eda&bg_color=512173" />
 </a>
+</details>
+
 
 ![GitHub metrics](https://metrics.lecoq.io/SenpaiSumpie)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SenpaiSumpie)  
-
-![Profile views](https://gpvc.arturio.dev/SenpaiSumpie)  
 
 Programmer Vector Art Image provided by Vecteezy.com
