@@ -6,6 +6,10 @@ Computer Science graduate currently working as a Front-End Developer at Cognizan
 
 ## :mag_right: Where else can you find me?
 ![Steam](https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/steam.svg)
+![EpicGames](https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/epicgames.svg)
+![Twitter](https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/twitter.svg)
+![LinkedIn](https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/linkedin.svg)
+![Discord](https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/discord.svg)
 
 <div style={{display: 'flex', flexDirection: 'column'}}>
 <a style={{display: 'flex', flexDirection: 'column'}} href="https://github.com/Mmosier11">
