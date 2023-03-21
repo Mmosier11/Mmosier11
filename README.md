@@ -2,7 +2,7 @@
 
 <div style="display: flex;">
 	<div align="right">
-		<img align="right" src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/programmer.jpg" width="300">
+		<img align="right" src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/programmer_new.PNG" width="300">
 	</div>
 	<div align="left">
 		<h1 align="left"> :mage: Speak, Friend, and Enter. </h1>
