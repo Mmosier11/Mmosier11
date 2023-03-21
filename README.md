@@ -46,15 +46,6 @@
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/express.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/aws.svg" width="100">
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/java.svg" width="100" />
-		<!-- Second Row -->
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/unity.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/unrealengine.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/c.svg" width="100"/>
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/cplusplus.svg" width="100"/>
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/csharp.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/github.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/git.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/trello.svg" width="100" />
 		<!-- Third Row -->
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/vscode.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/json.svg" width="100" />
