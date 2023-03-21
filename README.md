@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Mmosier11/Mmosier11/master/assets/github_header.png "Header")](https://maxmosier.com/)
+[![Header](https://raw.githubusercontent.com/Mmosier11/Mmosier11/master/assets/github_header.gif "Header")](https://maxmosier.com/)
 
 <div style="display: flex;">
 	<div align="right">
