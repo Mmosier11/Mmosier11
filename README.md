@@ -43,33 +43,11 @@
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/css.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/js.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/nodejs.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/express.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/figma.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/aws.svg" width="100">
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/java.svg" width="100" />
-		<!-- Third Row -->
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/vscode.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/json.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/materialui.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/mysql.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/pgsql.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/python.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/sql.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/stack.svg" width="100" />
-		<!--Fourth Row-->
 	</div>
-	<!--<h1> :mortar_board: Learning </h1>
-	<div style="display: flex;">
-		<!--First Row-->
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/angular.svg" width="100">
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/typescript.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/cognito.svg" width="100">
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/beanstalk.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/dynamodb.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/lambda.svg" width="100">
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/api.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/s3.svg" width="100" />
-		<!--Second Row-->
-	<!--</div>-->
 </div>
 
 <!--<details>
