@@ -43,45 +43,46 @@
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/css.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/js.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/nodejs.svg" width="100" />
-		<!--<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/express.svg" width="100" />-->
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/express.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/aws.svg" width="100">
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/java.svg" width="100" />
 		<!-- Second Row -->
-		<!--<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/unity.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/unity.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/unrealengine.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/c.svg" width="100"/>
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/cplusplus.svg" width="100"/>
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/csharp.svg" width="100" />-->
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/csharp.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/github.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/git.svg" width="100" />
-		<!--<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/github.svg" width="100" />-->
+		
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/trello.svg" width="100" />
 		<!-- Third Row -->
-		<!--<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/vscode.svg" width="100" />
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/vscode.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/json.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/materialui.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/mysql.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/pgsql.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/python.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/sql.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/stack.svg" width="100" />-->
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/stack.svg" width="100" />
 		<!--Fourth Row-->
 	</div>
 	<!--<h1> :mortar_board: Learning </h1>
 	<div style="display: flex;">
 		<!--First Row-->
-		<!--<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/angular.svg" width="100">
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/angular.svg" width="100">
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/typescript.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/cognito.svg" width="100">
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/beanstalk.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/dynamodb.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/lambda.svg" width="100">
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/api.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/s3.svg" width="100" />-->
+		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/s3.svg" width="100" />
 		<!--Second Row-->
 	<!--</div>-->
 </div>
 
-<details>
+<!--<details>
   <summary><h1>:clipboard: Projects</h1></summary>
 
   <ul>
@@ -100,8 +101,8 @@
 	<p> Helping work prospects land their dream job by linking them with work professionals!</p>
 </ul>
 
-</details>
-<details>
+</details> -->
+<!--<details>
 	<summary> <h1> :chart_with_upwards_trend: Github Stats </h1></summary>
 	<a href="https://github.com/SenapaiSumpie">
   		<img align="center" src="https://github-readme-stats.vercel.app/api?username=SenpaiSumpie&show_icons=true&theme=radical" />
@@ -112,6 +113,5 @@
 	<a href="https://github.com/SenpaiSumpie">
   		<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SenpaiSumpie&theme=radical" />
 	</a>
-</details>
+</details> -->
 
-Programmer Vector Art Image provided by Vecteezy.com
