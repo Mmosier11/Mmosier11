@@ -46,7 +46,6 @@
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/figma.svg" width="100" />
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/aws.svg" width="100">
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/vscode.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/materialui.svg" width="100" />
 	</div>
 </div>
 
