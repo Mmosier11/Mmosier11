@@ -1,53 +1,6 @@
 [![Header](https://raw.githubusercontent.com/Mmosier11/Mmosier11/master/assets/github_header.gif "Header")](https://maxmosier.com/)
 
-<!-- <div style="display: flex;">
-	<div align="right">
-		<img align="right" src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/programmer_new.png" width="300">
-	</div>
-	<div align="left">
-		<h1 align="left"> :mage: Speak, Friend, and Enter. </h1>
-		<h2 align="left"> :wave: Welcome, I'm Max Mosier! </h2>
-		<p align="left"> Computer Science graduate currently working as a Front-End Developer at Cognizant. I enjoy being innovative and problem solving issues 		of varying complexity. Looking to further my education in UI/UX practices and enter Software Development for creative applications, such as, video 		   games, media, and film. </p>
-		<h2 align="left"> :mag_right: Where else can you find me? </h2>
-		<div align="left">
-  			<div style="display: flex;">
-   				<a href="https://steamcommunity.com/id/taxnan11/">
-					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/steam.svg" width="75" /> 
-				</a>
-				<a href="">
-					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/epicgames.svg" width="75" />
-				</a>
-				<a href="">
-					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/twitter.svg" width="75" />
-				</a>
-				<a href="https://www.linkedin.com/in/max-mosier/">
-					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/linkedin.svg" width="75" />
-				</a>
-				<a href="">
-					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/discord.svg" width="75" />
-				</a>
-				<a href="https://maxmosier.com">
-					<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/website.svg" width="75" />
-				</a>
-  			</div>
-		</div>
-	</div>
-</div>
-<br>
-<div>
-	<h1>:computer: Technologies</h1>
-	<div style="display: flex;">
-		<!-- First Row -->
-		<!-- <img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/react.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/html.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/css.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/js.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/nodejs.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/figma.svg" width="100" />
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/aws.svg" width="100">
-		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/vscode.svg" width="100" />
-	</div>
-</div> -->
+
 
 <!--<details>
   <summary><h1>:clipboard: Projects</h1></summary>
