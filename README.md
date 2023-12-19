@@ -47,7 +47,7 @@
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/aws.svg" width="100">
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/vscode.svg" width="100" />
 	</div>
-</div> -->
+<!-- </div> -->
 
 <!--<details>
   <summary><h1>:clipboard: Projects</h1></summary>
