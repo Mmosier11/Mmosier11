@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/Mmosier11/Mmosier11/master/assets/github_header.gif "Header")](https://maxmosier.com/)
 
-<div style="display: flex;">
+<!-- <div style="display: flex;">
 	<div align="right">
 		<img align="right" src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/programmer_new.png" width="300">
 	</div>
@@ -47,7 +47,7 @@
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/aws.svg" width="100">
 		<img src="https://github.com/SenpaiSumpie/SenpaiSumpie/blob/main/assets/vscode.svg" width="100" />
 	</div>
-</div>
+</div> -->
 
 <!--<details>
   <summary><h1>:clipboard: Projects</h1></summary>
